@@ -2,5 +2,8 @@
   "item.tutorialmod.jade": "Jade",
   "item.tutorialmod.raw_jade": "Raw Jade",
 
+  "block.tutorialmod.jade_block": "Block of Jade",
+  "block.tutorialmod.raw_jade_block": "Block of Raw Jade",
+
   "creativetab.tutorial_tab": "Tutorial Tab"
 }

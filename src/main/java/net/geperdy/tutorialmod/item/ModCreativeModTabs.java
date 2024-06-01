@@ -1,6 +1,7 @@
 package net.geperdy.tutorialmod.item;
 
 import net.geperdy.tutorialmod.TutorialMod;
+import net.geperdy.tutorialmod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,6 +21,8 @@ public class ModCreativeModTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.JADE.get());
                         output.accept(ModItems.RAW_JADE.get());
+                        output.accept(ModBlocks.JADE_BLOCK.get());
+                        output.accept(ModBlocks.RAW_JADE_BLOCK.get());
 
                         output.accept(Items.MINECART);
                     })
