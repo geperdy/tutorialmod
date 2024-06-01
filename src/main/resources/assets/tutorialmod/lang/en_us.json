@@ -4,6 +4,10 @@
 
   "block.tutorialmod.jade_block": "Block of Jade",
   "block.tutorialmod.raw_jade_block": "Block of Raw Jade",
+  "block.tutorialmod.jade_ore": "Jade Ore",
+  "block.tutorialmod.deepslate_jade_ore": "Deepslate Jade Ore",
+  "block.tutorialmod.nether_jade_ore": "Nether Jade Ore",
+  "block.tutorialmod.end_stone_jade_ore": "Endstone Jade Ore",
 
   "creativetab.tutorial_tab": "Tutorial Tab"
 }

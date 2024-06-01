@@ -23,6 +23,11 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.RAW_JADE.get());
                         output.accept(ModBlocks.JADE_BLOCK.get());
                         output.accept(ModBlocks.RAW_JADE_BLOCK.get());
+                        output.accept(ModBlocks.JADE_ORE.get());
+                        output.accept(ModBlocks.DEEPSLATE_JADE_ORE.get());
+                        output.accept(ModBlocks.NETHER_JADE_ORE.get());
+                        output.accept(ModBlocks.END_STONE_JADE_ORE.get());
+
 
                         output.accept(Items.MINECART);
                     })
